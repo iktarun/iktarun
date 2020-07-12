@@ -11,6 +11,6 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m a Developer currently loves to work on Web related stuff
+- 🔭 I’m a Developer, loves to work on Web related stuff
 - 🌱 I’m currently working on React JS, Javascript and NodeJS projects
-- ⚡ Always ready to try something new
+- ⚡ Love to try something new
