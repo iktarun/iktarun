@@ -11,6 +11,9 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m a Developer, loves to work on Web related stuff
+- 🔭 I’m a Full Stack Engineer, loves to work on any tech stack, but love is React :heart_eyes:
 - 🌱 I’m currently working on React JS, Javascript and NodeJS, MSSQL projects
-- ⚡ Love to try something new
+- ⚡ Always Love to try something new
+- :rabbit: Sample Work project, made with love :heart: https://lets-order-food.netlify.app
+- :wolf: Learning repo about CP, Algoritms, SDE sheets probelem solving https://github.com/iktarun/data-structures-with-javascript
+- :panda_face: Some of html, css stuff https://github.com/iktarun/html-plus-css-componenets
