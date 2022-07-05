@@ -15,5 +15,6 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently working on React JS, Javascript and NodeJS, MSSQL projects
 - ⚡ Always Love to try something new
 - :rabbit: Sample Work project, made with love :heart: https://lets-order-food.netlify.app
-- :wolf: Learning repo about CP, Algoritms, SDE sheets probelem solving https://github.com/iktarun/data-structures-with-javascript
+- :wolf: Learning repo about CP, Algoritms, SDE sheets probelem solving https://github.com/iktarun/data-structures-with-javascript/tree/master/src/DataStructures
+- :wolf: Other topics like SOLID principles, Design Patterns, Javscript concepts like polyfill etc https://github.com/iktarun/data-structures-with-javascript/tree/master/src
 - :panda_face: Some of html, css stuff https://github.com/iktarun/html-plus-css-componenets
